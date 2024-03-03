@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://cdn.discordapp.com/attachments/1071899669682208799/1201032642406121532/rgb_iscte_en_description_inline_positive.jpg?ex=65c857d0&is=65b5e2d0&hm=2a4e427b1f129ea244c7b3b6049bf5fab0c9496f4032b8a85018af8bf3894f6f&" width=512/>
+    <img src="https://github.com/rrofly/rrofly/blob/main/images/rgb_iscte_en_horizontal_positive.jpg"/>
 </p>
 
 <p align="center">
